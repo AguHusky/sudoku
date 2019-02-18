@@ -1,0 +1,8 @@
+Posicion de A0
+ [1, 2, 3, 4]
+Posicion de A1
+ [1, 2, 4]
+Posicion de A2
+ [2, 3, 4]
+Posicion de A3
+ [1, 2, 3, 4]
