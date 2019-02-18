@@ -1,8 +1,114 @@
 Posicion de A0
- [1, 2, 3, 4]
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
 Posicion de A1
- [1, 2, 4]
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
 Posicion de A2
- [2, 3, 4]
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
 Posicion de A3
- [1, 2, 3, 4]
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A4
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A5
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A7
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A8
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A10
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A11
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A12
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A13
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A15
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A17
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A19
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A20
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A22
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A23
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A26
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A27
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A28
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A29
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A32
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A33
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A35
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A36
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A38
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A39
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A40
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A41
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A42
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A44
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A45
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A47
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A48
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A51
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A52
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A53
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A54
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A57
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A58
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A60
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A61
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A63
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A65
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A67
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A68
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A69
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A70
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A72
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A73
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A75
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A76
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A77
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A78
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A79
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Posicion de A80
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
